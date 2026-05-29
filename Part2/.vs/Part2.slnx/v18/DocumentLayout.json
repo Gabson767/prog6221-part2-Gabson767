@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Chatbot\\Part2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\chatbot\\part2\\chatbot\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\chatbot\\part2\\chatbot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\chatbot\\part2\\chatbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\chatbot\\part2\\chatbot\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\chatbot\\part2\\chatbot\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Chatbot\\Part2\\ChatBot\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "ChatBot\\ChatMessage.cs",
+              "ToolTip": "C:\\Chatbot\\Part2\\ChatBot\\ChatMessage.cs",
+              "RelativeToolTip": "ChatBot\\ChatMessage.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAFUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T13:59:09.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Chatbot\\Part2\\ChatBot\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatBot\\MainWindow.xaml",
+              "ToolTip": "C:\\Chatbot\\Part2\\ChatBot\\MainWindow.xaml",
+              "RelativeToolTip": "ChatBot\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T20:12:44.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Chatbot\\Part2\\ChatBot\\App.xaml",
+              "RelativeDocumentMoniker": "ChatBot\\App.xaml",
+              "ToolTip": "C:\\Chatbot\\Part2\\ChatBot\\App.xaml",
+              "RelativeToolTip": "ChatBot\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T20:43:07.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Chatbot\\Part2\\ChatBot\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatBot\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Chatbot\\Part2\\ChatBot\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatBot\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAowFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T20:12:42.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "C:\\Chatbot\\Part2\\ChatBot\\Sound.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Sound.cs",
+              "ToolTip": "C:\\Chatbot\\Part2\\ChatBot\\Sound.cs",
+              "RelativeToolTip": "ChatBot\\Sound.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T21:33:31.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
